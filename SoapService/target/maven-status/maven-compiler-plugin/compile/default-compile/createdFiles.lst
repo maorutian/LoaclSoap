@@ -1,0 +1,6 @@
+com/mycompany/soapservice/resources/JavaEE8Resource.class
+com/mycompany/soapservice/handlers/CRUDHandler.class
+com/mycompany/soapservice/services/CRUDWebService.class
+com/mycompany/soapservice/daos/MovieDAO.class
+com/mycompany/soapservice/JAXRSConfiguration.class
+com/mycompany/soapservice/models/Movie.class
